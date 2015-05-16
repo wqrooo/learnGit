@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<title><\title>
+<meta name="keyword" content="readMe"\>
+<\head>
+<body>
+<h1>html is fun!<\h1>
+<\body>
+<\html>
